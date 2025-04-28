@@ -191,3 +191,11 @@
 /Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Npgsql.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/leonardoprasetyo/Documents/dev/WebApiTest/WebApiTest/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
