@@ -5,6 +5,16 @@ Multiple Databases (e.g., SQL Server + MongoDB) | One per database type | Each D
 Multi-Tenant Systems | One shared or multiple depending on isolation | You might have one DbContext per tenant for isolation/security.
 Microservices | One per service | Each service owns its own database and context (Database per Service pattern).
 
+# Scenario How many DBContext's?
+
+|                            Scenario                             |             How Many DBContexts?              |                                      Why?                                      |
+| :-------------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------------------------------------------: |
+|                         Simple CRUD API                         |                      One                      |                    One database, one logical unit of work.                     |
+| Large App with Clear Domain Separation (e.g., Billing vs Users) |                   Multiple                    |     Different DbContexts to separate responsibility and avoid collisions.      |
+|         Multiple Databases (e.g., SQL Server + MongoDB)         |             One per database type             |          Each DbContext connects to one database; helps with scaling.          |
+|                      Multi-Tenant Systems                       | One shared or multiple depending on isolation |        You might have one DbContext per tenant for isolation/security.         |
+|                          Microservices                          |                One per service                | Each service owns its own database and context (Database per Service pattern). |
+
 ---
 
 # What happen in bigger apps?
